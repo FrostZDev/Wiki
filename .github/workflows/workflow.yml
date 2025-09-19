@@ -16,12 +16,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install --user --no-cache-dir Cython
           pip install --user -r requirements.txt
+          pip install mkdocs-material mkdocstrings mkdocs-git-revision-date-plugin mkdocs-jupyter mkdocs-pdf-export-plugin ipykernel
       - name: Discover typos with codespell
         run: |
           pip install codespell
           codespell --skip=".*,.git/*,*.csv,*.geojson,*.json,*.js,*.html,*cff,*.pdf" --ignore-words-list="aci,acount,acounts,fallow,hart,hist,nd,ned,ois,wqs"
-      - name: Install dependencies
-        run: pip install mkdocs-material mkdocstrings mkdocs-git-revision-date-plugin mkdocs-jupyter mkdocs-pdf-export-plugin ipykernel
+      - name: Build MkDocs site
+        run: mkdocs build
       - name: deploy
         run: mkdocs gh-deploy --force
         env:
