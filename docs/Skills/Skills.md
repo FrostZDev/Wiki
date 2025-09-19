@@ -1,1 +1,0 @@
-- Skills can be acquired in the skills menu.

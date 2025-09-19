@@ -1,4 +1,4 @@
-site_name: FrostZ Wiki
+site_name: FrostZ Wikipedia
 site_description: Wiki page for Frostpunk-themed full conversion mod for DayZ
 site_author: FrostZ Dev Team
 site_url: https://frostzdev.github.io/Wiki/
@@ -48,7 +48,7 @@ nav:
   - Buildings:
       - Buildings/generator.md
   - Skills:
-      - Skills/Skills.md
+      - Skills/Basics.md
   - Crafting:
       - Crafting/Workbenches.md
   
