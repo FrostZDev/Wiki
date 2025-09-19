@@ -1,1 +1,2 @@
-- Generator is very important building and without generator, there is no life in this world
+- Generator is very important building and without generator, there is no life in this world.
+![](../assets/images/generator.png)

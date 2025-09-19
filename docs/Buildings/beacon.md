@@ -1,2 +1,2 @@
-- The Beacon is used to forecast the weather
+- The Beacon is used to forecast the weather.
 ![](../assets/images/beacon.png)
