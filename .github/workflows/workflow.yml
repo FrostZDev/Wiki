@@ -1,4 +1,4 @@
-name: docs
+name: Deploy MkDocs
 on:
   push:
     branches:
@@ -25,4 +25,4 @@ jobs:
       - name: deploy
         run: mkdocs gh-deploy --force
         env:
-          RUN_GITHUB_ACTION: ${{ secrets.RUN_GITHUB_ACTION }}
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
