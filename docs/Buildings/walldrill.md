@@ -1,1 +1,2 @@
-- Steelworks are used to get iron
+- The Walldrill is an infinite source of logs
+![](../assets/images/walldrill.png)

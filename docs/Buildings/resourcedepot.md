@@ -1,1 +1,1 @@
-- Steelworks are used to get iron
+- The Resource Depot is the place to store raw materials

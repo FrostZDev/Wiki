@@ -1,1 +1,2 @@
-- Steelworks are used to get iron
+- The Coalmine is an infinite source of coal
+![](../assets/images/coalmine.png)

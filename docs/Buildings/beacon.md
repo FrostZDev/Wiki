@@ -1,1 +1,2 @@
-- Steelworks are used to get iron
+- The Beacon is used to forecast the weather
+![](../assets/images/beacon.png)
