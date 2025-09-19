@@ -46,8 +46,25 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Buildings:
-      - Buildings/generator.md
-      - Buildings/steelworks.md
+    - Buildings/generator.md
+    - Buildings/resourcedepot.md
+    - Buildings/gatheringpost.md
+    - Buildings/tentshack&bunkhouse.md
+    - Buildings/publichouse.md
+    - Buildings/medicalpost.md
+    - Buildings/hothouse.md
+    - Buildings/cookhouse.md
+    - Buildings/sawmill.md
+    - Buildings/walldrill.md
+    - Buildings/coalmine.md
+    - Buildings/kiln.md
+    - Buildings/steelworks.md
+    - Buildings/beacon.md
+    - Buildings/cemetery.md
+    - Buildings/huntershut.md
+    - Buildings/workshop.md
+    - Buildings/executionplatform.md
+    - Buildings/fightingpit.md
   - Skills:
       - Skills/Basics.md
   - Crafting:
