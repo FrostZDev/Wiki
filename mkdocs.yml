@@ -47,6 +47,7 @@ nav:
   - Home: index.md
   - Buildings:
       - Buildings/generator.md
+      - Buildings/steelworks.md
   - Skills:
       - Skills/Basics.md
   - Crafting:
