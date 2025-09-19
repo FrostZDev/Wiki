@@ -1,0 +1,52 @@
+site_name: FrostZ Wiki
+site_description: Wiki page for Frostpunk-themed full conversion mod for DayZ
+site_author: FrostZ Dev Team
+site_url: https://frostzdev.github.io/Wiki/
+
+copyright: "Copyright &copy; 2025 FrostZ Dev Team"
+
+theme:
+  palette:
+    - scheme: default
+      #   primary: blue
+      #   accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  features:
+    - navigation.instant
+    - search.highlight
+  custom_dir: "docs/overrides"
+  font:
+    text: Google Sans
+    code: Regular
+
+plugins:
+  - search
+  - mkdocstrings
+  - git-revision-date
+
+markdown_extensions:
+  - attr_list
+  - toc:
+      permalink: true
+
+# extra:
+#   analytics:
+#     provider: google
+#     property: G-XXX
+
+nav:
+  - Home: index.md
+  - Buildings:
+      - Buildings/generator.md
+  - Discord: https://discord.gg/8kC29NDt3c
