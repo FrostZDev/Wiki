@@ -1,0 +1,1 @@
+This skill tree helps with sustaining life in and outside of the colony. Anything that is connected with horticulture, cooking or healthcare can be found in this tree. Doing such things will provide you with experience for this skill tree. 

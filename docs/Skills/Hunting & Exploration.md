@@ -1,0 +1,1 @@
+This skill tree is for people who are ready to venture out. Anything that is connected with hunting, exploring or surviving outside of the colony can be found in this tree. Doing such things will provide you with experience for this skill tree. 

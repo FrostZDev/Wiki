@@ -11,9 +11,33 @@
 	font-size: 1.5rem;
 }
 
-img[alt=skillIcon] {
+img[alt=IconSkill] {
 	width: 1rem;
 	padding-bottom: 3px;
 	vertical-align: middle;
 
 	}
+	
+img[alt=IconSmall] {
+	width: 1rem;
+	padding-bottom: 3px;
+	vertical-align: middle;
+	filter: invert(1);
+
+	}
+	
+[data-md-color-scheme="slate"] img[alt=IconSmall] {
+	width: 1rem;
+	padding-bottom: 3px;
+	vertical-align: middle;
+	filter: none;
+
+	}
+	
+img[alt=SmallImage] {
+	width: 10rem;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+

@@ -7,18 +7,18 @@ copyright: "Copyright &copy; 2025 FrostZ Dev Team"
 
 theme:
   palette:
-    - scheme: default
-      #   primary: blue
-      #   accent: indigo
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to dark mode
     - scheme: slate
       primary: indigo
       accent: indigo
       toggle:
-        icon: material/toggle-switch
+        icon: material/brightness-4
         name: Switch to light mode
+    - scheme: default
+      #   primary: blue
+      #   accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
   name: material
   icon:
     repo: fontawesome/brands/github
@@ -27,7 +27,7 @@ theme:
     - search.highlight
   custom_dir: "docs/overrides"
   font:
-    text: Google Sans
+    text: EB Garamond
     code: Regular
   logo: assets/images/logo.png
 
@@ -45,30 +45,36 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Resources: Resources/Resources.md
   - Buildings:
-    - Buildings/generator.md
-    - Buildings/resourcedepot.md
-    - Buildings/gatheringpost.md
-    - Buildings/tentshack&bunkhouse.md
-    - Buildings/publichouse.md
-    - Buildings/medicalpost.md
-    - Buildings/hothouse.md
-    - Buildings/cookhouse.md
-    - Buildings/sawmill.md
-    - Buildings/walldrill.md
-    - Buildings/coalmine.md
-    - Buildings/kiln.md
-    - Buildings/steelworks.md
-    - Buildings/beacon.md
-    - Buildings/cemetery.md
-    - Buildings/huntershut.md
-    - Buildings/workshop.md
-    - Buildings/executionplatform.md
-    - Buildings/fightingpit.md
+    - Buildings/Basics.md
+    - List of buildings:
+        - Buildings/beacon.md
+        - Buildings/cemetery.md
+        - Buildings/Coal Mine.md
+        - Buildings/cookhouse.md
+        - Buildings/Execution Platform.md
+        - Buildings/Fighting Pit.md
+        - Buildings/Gathering Post.md
+        - Buildings/generator.md
+        - Buildings/hothouse.md
+        - Buildings/Hunter's hut.md
+        - Buildings/kiln.md
+        - Buildings/Medical Post.md
+        - Buildings/Public House.md
+        - Buildings/Resource Depot.md
+        - Buildings/sawmill.md
+        - Buildings/steelworks.md
+        - Buildings/Tentshack & Bunkhouse.md
+        - Buildings/Wall Drill.md
+        - Buildings/workshop.md
   - Skills:
       - Skills/Basics.md
-  - Crafting:
-      - Crafting/Workbenches.md
+      - Skill trees:
+          - Skills/Food & Health.md
+          - Skills/Technology.md
+          - Skills/Hunting & Exploration.md
+  - Crafting: Crafting/Crafting.md
   
 
 extra:

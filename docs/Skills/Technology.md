@@ -1,0 +1,1 @@
+This skill tree helps with advancement of the colony. Anything that is connected with technology, labor or general crafting can be found in this tree. Doing such things will provide you with experience for this skill tree. 
