@@ -45,7 +45,6 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Resources: Resources/Resources.md
   - Buildings:
     - Buildings/Basics.md
     - List of buildings:
@@ -68,13 +67,16 @@ nav:
         - Buildings/Tentshack & Bunkhouse.md
         - Buildings/Wall Drill.md
         - Buildings/workshop.md
+  - Crafting: Crafting/Crafting.md
+  - Factions:
+      - Factions/Lawkeepers.md
+  - Resources: Resources/Resources.md
   - Skills:
       - Skills/Basics.md
       - Skill trees:
           - Skills/Food & Health.md
           - Skills/Technology.md
           - Skills/Hunting & Exploration.md
-  - Crafting: Crafting/Crafting.md
   
 
 extra:

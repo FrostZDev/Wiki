@@ -41,3 +41,7 @@ img[alt=SmallImage] {
 	display: block;
 }
 
+img[alt=Image] {
+	width: 11rem;
+}
+

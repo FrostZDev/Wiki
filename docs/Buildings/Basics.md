@@ -1,4 +1,4 @@
-Buildings can be built by Lawkeeper faction. Building menu can be by default opened with `N` key.
+Buildings can be built by [Lawkeeper](../Factions/Lawkeepers.md) faction. Building menu can be by default opened with `N` key.
 
 ![](../assets/images/buildingMenu.jpg)
 
