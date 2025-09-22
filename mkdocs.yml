@@ -84,6 +84,7 @@ nav:
       - PlayerStates/Amputation.md
       - PlayerStates/Body Hygiene.md
       - PlayerStates/Food Diet.md
+  - Heatstamps: Heatstamps.md
   
 
 extra:
