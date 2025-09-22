@@ -77,6 +77,13 @@ nav:
           - Skills/Food & Health.md
           - Skills/Technology.md
           - Skills/Hunting & Exploration.md
+  - PlayerStates:
+      - PlayerStates/HeatBuffer.md
+      - PlayerStates/HeatLevel.md
+      - PlayerStates/FrostBite.md
+      - PlayerStates/Amputation.md
+      - PlayerStates/BodyHygiene.md
+      - PlayerStates/FoodDiet.md
   
 
 extra:
