@@ -1,5 +1,5 @@
 The heat level indicates the positive or negative temperature delta based on the overall temperature.  
-It is indicated by a status badge indicator (![IconSmall](../assets/images/Wood.png)) on the player status hud the same way as vanilla status indicators are shown.
+It is indicated by a status badge indicator (![IconSmall](../assets/images/temperature_1.png)) on the player status hud the same way as vanilla status indicators are shown.
 
 The added or substracted heat level is shown as an additional bage indicator value on the status badge.
 

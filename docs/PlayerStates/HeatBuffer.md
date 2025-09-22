@@ -1,7 +1,7 @@
 The vanilla heatbuffer/heatcomfort stat is replaced by a custom implementation.
 The stats represents the core state around the positive or negative [temperature deficite](HeatLevel.md).
 
-The stat is represented by the following icon in the player stats hud: ![IconSmall](../assets/images/Wood.png)
+The stat is represented by the following icon in the player stats hud: ![IconSmall](../assets/images/heatbuffer_1.png)
 
 As long as this stat is not empty environmental temperate has no impact on the player. Therefore it is crucial for the player to keep the stat at a reasonable level and always pay attention to it. Once the heat buffer emptied out completely the player will start to get [frostbite](FrostBite.md)
 
@@ -15,5 +15,5 @@ A cold protection metere is placed in the bottom left corner of the inventory:
 **Note: A full protection bar does not mean the player wont suffer loss of heat buffer it only indicates that the maximum protection level has been achieved**
 
 If the heatbuffer emptied out and the protection against the cold is not high enough the player may slowely freeze to death.
-Freezing to death is indicated by the following status badge indicator: ![IconSmall](../assets/images/Wood.png)
-Freezing to deaht can only be countered by refilling the heatbuffer stat.
+Freezing to death is indicated by the following status badge indicator: ![IconSmall](../assets/images/FreezingToDeath.png)
+Freezing to death can only be countered by refilling the heatbuffer stat.
