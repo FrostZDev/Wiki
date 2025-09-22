@@ -4,6 +4,6 @@ It is indicated by a status badge indicator (![IconSmall](../assets/images/tempe
 The added or substracted heat level is shown as an additional bage indicator value on the status badge.
 
 Each positive level provides enough to heat to counter -10°C of environmental temperatue.  
-The heatlevel directly impacts the [heat buffer stat](HeatBuffer.md)
+The heatlevel directly impacts the [heat buffer stat](Heat Buffer.md)
 
 Bonus Tipp: The environmental temperature and how it will change over time can be observed using the [beacon](../Buildings/beacon.md)
