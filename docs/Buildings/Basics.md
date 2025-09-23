@@ -2,8 +2,8 @@ Buildings can be built by [Lawkeeper](../Factions/Lawkeepers.md) faction. Buildi
 
 ![](../assets/images/buildingMenu.jpg)
 
-When you hover over a building, window will appear with a description and list of [resources](../Resources/Resources.md) and their amounts required for selected building. 
+When you hover over a building, window will appear with a description and list of [resources](../Resources/Resources.md) and their amounts required for selected building. These [resources](../Resources/Resources.md) are being taken directly from [resource depot](/Resource Depot.md).
 
-Once you select building to build, hologram of selected building will appear. By default it should be green indicating possibility to build selected building but if something is preventing its placement, hologram will turn red.
+Once you select building to build, hologram of selected building will appear. You can rotate the hologram with your mouse wheel. Keep in mind that the hologram cannot be blocked or overlapped by any building, player, or immovable object.
 
 ![](../assets/images/buildingPlacement.jpg)
