@@ -1,4 +1,4 @@
-The Coal Mine provides infinite source of coal. It needs to powered by the [generator](generator.md). Once the [generator](generator.md) is running, machine operators can turn on the the Coal Mine on top of the ladder in the control room.
+The Coal Mine provides infinite source of coal ![IconSmall](../assets/images/Coal.png). It needs to powered by the [generator](generator.md). Once the [generator](generator.md) is running, machine operators can turn on the the Coal Mine on top of the ladder in the control room.
 
 ![](../assets/images/coalmine.png)
 

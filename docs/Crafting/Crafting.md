@@ -8,7 +8,7 @@ It is simple crafting that allows basic day to day stuff such as sharpening tool
 
 
 ## Crafting in workbenches
-Some of the buildings provide crafting stations called workbenches. These workbenches allow advanced crafting with multiple crafting ingredients. Usually recipes need to be unlocked with [skills](../Skills/Basics.md). 
+Some of the buildings provide crafting stations called workbenches. These workbenches allow advanced crafting with multiple crafting ingredients. Usually recipes need to be unlocked with [skills](../Skills/Basics.md) and require some amount of [heat stamps](../Heatstamps.md). 
 Workbenches by default have storage. During crafting, ingredients are taken not only from this storage but also from player's inventory. If workbench does not have any form of storage, igredients are taken only from player's inventory.
 
 Once you select recipe in the crafting menu, you will see ingredients required for crafting. For each of the ingredients you can see on the right side of the `/` how many pieces or how much percentage (in case of items with percentage) of said ingredient is required. 
