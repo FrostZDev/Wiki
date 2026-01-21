@@ -11,4 +11,4 @@ Their philosophy is ruthless: only the strong deserve to live. They see the gene
 This belief drives them to destroy what they cannot control and scavenge what they cannot replace, valuing survival above morality.
 For the Pilgrims, justice does not exist—only endurance, instinct, and the cold judgment of the frost itself.
 
-![Image](../assets/images/pilgrim.jpg)
+![Image](../assets/images/pilgrim.png)
