@@ -11,5 +11,5 @@ They see doubt as corruption, and heresy as a contagion more dangerous than the 
 This conviction drives them to impose strict rituals, public penance, and severe punishment for blasphemy or defiance, measures many citizens consider extreme but spiritually necessary.
 For the Faithkeepers, justice is not about law or fairness, but about salvation through belief, unity, and unquestioned devotion.
 
-![Image](../assets/images/faithkeeper1.png)
-![Image](../assets/images/faithkeeper2.png)
+![Image2](../assets/images/faithkeeper1.png)
+![Image2](../assets/images/faithkeeper2.png)
