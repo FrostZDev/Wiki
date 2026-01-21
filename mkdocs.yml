@@ -70,6 +70,8 @@ nav:
   - Crafting: Crafting/Crafting.md
   - Factions:
       - Factions/Lawkeepers.md
+      - Factions/Faithkeepers.md
+      - Factions/Frostlanders.md
   - Resources: Resources/Resources.md
   - Skills:
       - Skills/Basics.md
