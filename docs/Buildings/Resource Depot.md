@@ -10,5 +10,5 @@ Player can then place [resources](../Resources/Resources.md) into the invenory o
 
 ![](../assets/images/resourcedepot_submit.png)
 
-Resources for building are automatically taken from Resource Depot located near the [generator](generator.md). The [generator](generator.md) also automatically takes coal from here while it is running.
+Resources for [building](../Building/Basics.md) are automatically taken from Resource Depot located near the [generator](generator.md). The [generator](generator.md) also automatically takes coal from here while it is running.
 
