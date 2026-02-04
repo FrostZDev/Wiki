@@ -1,0 +1,51 @@
+.md-nav__title {
+    display: none;
+}
+
+.md-header__button.md-logo img {
+	height: 2.5rem;
+}
+
+.md-header__title
+{
+	font-size: 1.5rem;
+}
+
+img[alt=IconSkill] {
+	width: 1rem;
+	padding-bottom: 3px;
+	vertical-align: middle;
+
+	}
+	
+img[alt=IconSmall] {
+	width: 1rem;
+	padding-bottom: 3px;
+	vertical-align: middle;
+	filter: invert(1);
+
+	}
+	
+[data-md-color-scheme="slate"] img[alt=IconSmall] {
+	width: 1rem;
+	padding-bottom: 3px;
+	vertical-align: middle;
+	filter: none;
+
+	}
+	
+img[alt=SmallImage] {
+	width: 10rem;
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+img[alt=Image] {
+	width: 11rem;
+}
+img[alt=Image2] {
+	width: 17rem;
+}
+
+
