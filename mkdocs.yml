@@ -47,6 +47,7 @@ nav:
   - Home: index.md
   - Buildings:
     - Buildings/Basics.md
+    - Buildings/Upgrades.md
     - List of buildings:
         - Buildings/beacon.md
         - Buildings/cemetery.md
@@ -72,6 +73,7 @@ nav:
       - Factions/Lawkeepers.md
       - Factions/Faithkeepers.md
       - Factions/Frostlanders.md
+      - Factions/Voting.md
   - Resources: Resources/Resources.md
   - Skills:
       - Skills/Basics.md

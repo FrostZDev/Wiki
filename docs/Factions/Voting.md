@@ -8,4 +8,4 @@ Chose wisely - the vote can not be changed after it has been cast!
 During each voting cycle a different faction my be chosen.
 
 After the voting cycle ended the controling power over the colony is transfered to the new governing faction.
-The members of the new coverning faction is granted the power to perform all the special actions like [building](../Building/Basics.md), [upgrades](../Building/Upgrades.md) and more.
+The members of the new coverning faction is granted the power to perform all the special actions like [building](../Buildings/Basics.md), [upgrades](../Buildings/Upgrades.md) and more.
