@@ -7,3 +7,10 @@ In order to get personal storage player must be granted permission from the [gov
 
 ![](../assets/images/personalstorage1.png)
 ![](../assets/images/personalstorage2.png)
+
+#### Tentshack Upgrades
+
+In order to unlock personal storage space for a limited number of players the Storage [upgrade](Upgrades.md) must be installed.
+
+In addition to the storage a local heater can be installed as [upgrade](Upgrades.md). It offers a small amount of heat which directly drains coal from the resource depot if any available.
+Matches are required to start the heater!
