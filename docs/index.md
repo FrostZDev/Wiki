@@ -9,3 +9,7 @@ You won’t be able to do everything yourself. Everyone in the community will ne
 Once you’ve secured the basics to survive the first storm, you’ll start building more advanced structures, and eventually set out on expeditions—to hunt, scavenge, or search for rare resources and ingredients.
 
 And of course, anything is possible. Maybe you don’t like the mayor’s rules. Maybe the community agrees. Maybe you exile him—and become the new mayor yourself.
+
+## Settlements
+
+Members of the governing faction can establish outposts beyond the colony. The [settlement guide](Buildings/Settlements.md) explains how to found one, supply its depot and build within its boundaries.

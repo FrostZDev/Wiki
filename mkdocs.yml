@@ -47,6 +47,7 @@ nav:
   - Home: index.md
   - Buildings:
     - Buildings/Basics.md
+    - Settlements: Buildings/Settlements.md
     - Buildings/Upgrades.md
     - List of buildings:
         - Buildings/beacon.md

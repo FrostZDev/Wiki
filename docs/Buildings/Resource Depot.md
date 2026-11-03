@@ -10,5 +10,7 @@ Player can then place [resources](../Resources/Resources.md) into the invenory o
 
 ![](../assets/images/resourcedepot_submit.png)
 
-Resources for [building](../Building/Basics.md) are automatically taken from Resource Depot located near the [generator](generator.md). The [generator](generator.md) also automatically takes coal from here while it is running.
+Resources for [building](Basics.md) and resource-paying [upgrades](Upgrades.md) are taken only from a depot inside the building's territory. Nearby loose resources and depots in another territory cannot supplement the cost. Founding a new settlement uses nearby loose resources instead; see [Creating a settlement](Settlements.md).
+
+The [generator](generator.md) also uses depot coal while it is running.
 
