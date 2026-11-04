@@ -14,3 +14,5 @@ Resources for [building](Basics.md) and resource-paying [upgrades](Upgrades.md) 
 
 The [generator](generator.md) also uses depot coal while it is running.
 
+The [Charcoal Kiln](kiln.md) automatically withdraws 1 Raw Wood from its nearest depot and deposits 4 Coal into the same depot every minute while running.
+

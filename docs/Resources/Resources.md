@@ -20,6 +20,7 @@ Resources are divided into types that are designated by icons
 The following list shows buildings and what resource this building can produce
 
 - [Coal Mine](../Buildings/Coal Mine.md) ![IconSmall](../assets/images/Coal.png)
+- [Charcoal Kiln](../Buildings/kiln.md) ![IconSmall](../assets/images/Coal.png) — converts 1 Raw Wood into 4 Coal per minute.
 - [Wall Drill](../Buildings/Wall Drill.md) ![IconSmall](../assets/images/WoodRaw.png)
 - [Sawmill](../Buildings/sawmill.md) ![IconSmall](../assets/images/Wood.png)
 - [Steelworks](../Buildings/steelworks.md) ![IconSmall](../assets/images/MetalRaw.png) ![IconSmall](../assets/images/Metal.png)
