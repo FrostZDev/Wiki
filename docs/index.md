@@ -13,3 +13,7 @@ And of course, anything is possible. Maybe you don’t like the mayor’s rules.
 ## Settlements
 
 Members of the governing faction can establish outposts beyond the colony. The [settlement guide](Buildings/Settlements.md) explains how to found one, supply its depot and build within its boundaries.
+
+## Quests
+
+Track personal objectives and shared faction progress in the quest menu. The [quest guide](Quests.md) explains the tabs, quest states, prerequisites and progress notifications.
