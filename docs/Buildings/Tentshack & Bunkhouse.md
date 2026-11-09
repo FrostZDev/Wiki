@@ -10,7 +10,24 @@ In order to get personal storage player must be granted permission from the [gov
 
 #### Tentshack Upgrades
 
-In order to unlock personal storage space for a limited number of players the Storage [upgrade](Upgrades.md) must be installed.
+Install [upgrades](Upgrades.md) to improve your Tentshack.
 
-In addition to the storage a local heater can be installed as [upgrade](Upgrades.md). It offers a small amount of heat which directly drains coal from the resource depot if any available.
-Matches are required to start the heater!
+| Upgrade | Cost | Benefit | Requires |
+| --- | --- | --- | --- |
+| Storage | 3 Processed Wood | Unlocks personal storage for up to 10 inhabitants. | None |
+| Heating | 4 Processed Metal | Adds a local coal heater. | None |
+| Insulation | 4 Fabric | Keeps the cold out and helps the Tentshack retain warmth. | None |
+| Improved Heating | 6 Processed Metal | Makes the Tentshack warmer while its heater is running. | Heating |
+
+The local heater uses coal from the resource depot. Matches are required to light it.
+
+#### Bunkhouse Upgrades
+
+The Bunkhouse uses [generator](generator.md) heating and already provides personal storage. Its upgrades improve warmth while that heating is running.
+
+| Upgrade | Cost | Benefit |
+| --- | --- | --- |
+| Insulation | 4 Fabric | Helps the Bunkhouse retain more warmth while its heating is running. |
+| Improved Heating | 6 Processed Metal | Improves the warmth provided by its heating system. |
+
+Both upgrades can be installed independently, and their benefits combine while the generator is heating the building.

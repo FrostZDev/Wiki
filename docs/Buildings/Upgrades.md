@@ -6,3 +6,8 @@ Upgrades do not come for free but cost resources the same way as [building](Basi
 [Resources](../Resources/Resources.md) for an upgrade are consumed only from a depot in the building's territory, regardless of where your character stands. Nearby loose resources and depots outside that territory cannot pay for it. A resource-paying upgrade cannot proceed without a suitable stocked depot. See [Creating a settlement](Settlements.md#upgrades-and-upkeep) for settlement upkeep rules.
 
 Some upgrades require other upgrades to be installed first.
+
+### Building upgrade lists
+
+- [Tentshack and Bunkhouse](Tentshack%20%26%20Bunkhouse.md): housing, insulation, and improved heating.
+- [Medical Post](Medical%20Post.md): Common Care and Pharmacy.
