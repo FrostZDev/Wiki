@@ -4,3 +4,14 @@ In order for the Generator to run it requires coal that is automatically taken f
  Gages on its side provide indication of how much coal is left.
 
 ![](../assets/images/generator.png)
+### Upgrades
+
+The Generator's [upgrades](Upgrades.md) unlock higher power levels for stronger heating. Install them in order.
+
+| Upgrade | Cost | Requires |
+| --- | --- | --- |
+| Power Level 1 | 1 Steam Core | None |
+| Power Level 2 | 1 Steam Core | Power Level 1 |
+| Power Level 3 | 1 Steam Core | Power Level 2 |
+
+Installing an upgrade unlocks that power level; use the Generator's controls to raise or lower its operating level. Unlocking all three levels costs 3 Steam Cores in total.

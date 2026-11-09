@@ -11,3 +11,6 @@ Some upgrades require other upgrades to be installed first.
 
 - [Tentshack and Bunkhouse](Tentshack%20%26%20Bunkhouse.md): housing, insulation, and improved heating.
 - [Medical Post](Medical%20Post.md): Common Care and Pharmacy.
+
+- [Generator](generator.md): three power-level upgrades.
+- [Sawmill](sawmill.md): Sharp Blade for improved wood yield.

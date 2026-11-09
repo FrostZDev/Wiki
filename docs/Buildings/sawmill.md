@@ -4,4 +4,10 @@ The Sawmill is used to turn raw wood ![IconSmall](../assets/images/WoodRaw.png) 
 
 ### Upgrades
 
-The sharp blade [upgrade](Upgrades.md) increases the yield of resources.
+The Sawmill has one [upgrade](Upgrades.md):
+
+| Upgrade | Cost | Benefit |
+| --- | --- | --- |
+| Sharp Blade | 5 Processed Metal | Increases processed wood output from each log. |
+
+With Sharp Blade installed, each log produces 4 wooden planks instead of 3. No other upgrade is required.
