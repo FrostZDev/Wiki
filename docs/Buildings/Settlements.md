@@ -48,6 +48,7 @@ Membership depends on the building's placement point. That point must lie inside
 ## Upgrades and upkeep
 
 - Resource-paying upgrades use a depot in the **building's territory**, regardless of where your character stands. Nearby resources and foreign depots cannot pay for them.
+- [Building repairs](Basics.md#repairing-buildings) use one processed wood from the nearest depot in the building's territory.
 - Keep a depot available: without one, resource-paying construction and upgrades cannot proceed, including construction of a replacement depot.
 - Settlement boundaries stay fixed. Adding buildings does not expand or move them.
 - Settlements survive normal server restarts and remain claimed even after every building is removed.
