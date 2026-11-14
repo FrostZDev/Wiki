@@ -8,8 +8,18 @@ Once you select building to build, hologram of selected building will appear. Yo
 
 ![](../assets/images/buildingPlacement.jpg)
 
+## Snowfall damage
+
+Snowfall wears down buildings that are subject to environmental stress. Heavier snowfall causes more damage, and some buildings wear down faster than others. The resilience upgrade reduces snowfall damage.
+
+## Ruined buildings
+
+When a building becomes **Ruined**, running machinery shuts down. Ruined generators cut power to connected buildings, and heat from ruined buildings fades as they cool.
+
+Some services also become unavailable. You can no longer rest at a ruined Medical Post, create garden plots in a ruined Hothouse, or add coal to a ruined heater. You can repair a damaged building before it becomes ruined.
+
 ## Repairing buildings
 
-Snowfall wears down some buildings over time. Look at a building to check its condition. Members of the governing faction can repair these buildings when they are **Worn**, **Damaged**, or **Badly Damaged**.
+Look at a building to check its condition. Any player can repair buildings subject to environmental stress when they are **Worn**, **Damaged**, or **Badly Damaged**.
 
-Hold a hammer, stand close to the building, and use **Repair Building**. The nearest [resource depot](Resource%20Depot.md) in the building's territory must have at least **1 processed wood**. Completing the action consumes that wood and restores the building to full health.
+Hold a hammer, stand close to the building, and use **Repair Building**. Keep processed wood on the ground near your character. Completing the action consumes wood from the ground and restores the building to full health.
