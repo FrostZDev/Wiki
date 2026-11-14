@@ -1,5 +1,5 @@
 Living around the generater is anything else but a clean living space.
-The generator running from coal constantly pushes ash in the air.
+A running generator constantly pushes ash into the air.
 Over time the player will get dirty which will be indicated visually on the players face and hands.
 
 ![](../assets/images/BodyHygiene.jpg)

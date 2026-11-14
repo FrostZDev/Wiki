@@ -12,7 +12,7 @@ Player can then place [resources](../Resources/Resources.md) into the invenory o
 
 Resources for [building](Basics.md) and resource-paying [upgrades](Upgrades.md) are taken only from a depot inside the building's territory. Nearby loose resources and depots in another territory cannot supplement the cost. Founding a new settlement uses nearby loose resources instead; see [Creating a settlement](Settlements.md).
 
-The [generator](generator.md) also uses depot coal while it is running.
+The [generator](generator.md) automatically draws coal from the depot at power levels 1–3. Level 0 uses no coal.
 
 The [Charcoal Kiln](kiln.md) automatically withdraws 1 Raw Wood from its nearest depot and deposits 4 Coal into the same depot every minute while running.
 

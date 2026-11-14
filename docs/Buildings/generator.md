@@ -1,7 +1,23 @@
-The Generator is very important building and without the Generator, there is no life in this world. It can power various buildings such as [Coal Mine](Coal Mine.md) or [Beacon](beacon.md). It can heat up most of the buildings. 
+The Generator powers buildings in its territory, including the [Coal Mine](Coal Mine.md) and [Beacon](beacon.md). The [governing](../Factions/Voting.md) faction can switch it on or off and adjust its power level.
 
-In order for the Generator to run it requires coal that is automatically taken from [Resource Depot](Resource Depot.md). The Generator can be turned on and off by the [governing](../Factions/Voting.md) faction. Once the Generator is not running, it will not provide heat or power to any of the buildings.
- Gages on its side provide indication of how much coal is left.
+### Power and coal
+
+Level 0 powers buildings and warms shelters without using coal. Higher levels automatically draw coal from the [Resource Depot](Resource Depot.md).
+
+| Power level | Approximate running time per coal | Bonus heat for buildings |
+| --- | --- | --- |
+| 0 | No coal required | 0 |
+| 1 | 5 minutes | +1 |
+| 2 | 2 minutes 30 seconds | +2 |
+| 3 | 1 minute 40 seconds | +3 |
+
+If you try to start the Generator at a coal-consuming level or raise it to one with no fuel available, it stays in its current state. A Generator already running at levels 1–3 shuts down when it runs out of coal. The side gauges show the Generator's heat and the coal available in the depot.
+
+### Heating
+
+The area around the Generator provides 3 heat levels while it is running at any power level. Generator-heated buildings have their own starting warmth, plus the bonus in the table and any installed heating upgrades. If several generators serve a territory, buildings use the highest level currently running.
+
+Heat builds up after the Generator starts and fades after it shuts down during play. After a server restart, a running Generator and its powered buildings start at their full heat for that power level.
 
 ![](../assets/images/generator.png)
 ### Upgrades

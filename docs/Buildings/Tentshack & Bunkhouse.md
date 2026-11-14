@@ -15,19 +15,19 @@ Install [upgrades](Upgrades.md) to improve your Tentshack.
 | Upgrade | Cost | Benefit | Requires |
 | --- | --- | --- | --- |
 | Storage | 3 Processed Wood | Unlocks personal storage for up to 10 inhabitants. | None |
-| Heating | 4 Processed Metal | Adds a local coal heater. | None |
-| Insulation | 4 Fabric | Keeps the cold out and helps the Tentshack retain warmth. | None |
-| Improved Heating | 6 Processed Metal | Makes the Tentshack warmer while its heater is running. | Heating |
+| Heating | 4 Processed Metal | Unlocks automatic heating whenever the territory's generator is running. | None |
+| Insulation | 4 Fabric | Adds 1 heat level while Heating is installed and powered. | None |
+| Improved Heating | 6 Processed Metal | Adds 1 heat level while Heating is powered. | Heating |
 
-The local heater uses coal from the resource depot. Matches are required to light it.
+With Heating installed, the Tentshack warms up automatically at any running [generator](generator.md) level. It starts at 1 heat level, plus the generator bonus and installed heat upgrades. Insulation can be installed on its own, with its warmth bonus taking effect once Heating is installed and powered. Heating adds zero coal use.
 
 #### Bunkhouse Upgrades
 
-The Bunkhouse uses [generator](generator.md) heating and already provides personal storage. Its upgrades improve warmth while that heating is running.
+The Bunkhouse uses [generator](generator.md) heating and already provides personal storage. It starts at 2 heat levels, plus the generator bonus and installed heat upgrades.
 
 | Upgrade | Cost | Benefit |
 | --- | --- | --- |
-| Insulation | 4 Fabric | Helps the Bunkhouse retain more warmth while its heating is running. |
-| Improved Heating | 6 Processed Metal | Improves the warmth provided by its heating system. |
+| Insulation | 4 Fabric | Adds 2 heat levels while powered. |
+| Improved Heating | 6 Processed Metal | Adds 1 heat level while powered. |
 
 Both upgrades can be installed independently, and their benefits combine while the generator is heating the building.
