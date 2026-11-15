@@ -1,7 +1,7 @@
 Colony Orders let the [governing faction](Voting.md) rally the whole colony around one gathering goal, such as "collect 500 coal".
 While an order is active, everyone who gathers that resource in the colony earns bonus XP.
 
-![Image](../assets/images/order.jpg)
+![](../assets/images/order.jpg)
 
 ## Issuing an order
 
