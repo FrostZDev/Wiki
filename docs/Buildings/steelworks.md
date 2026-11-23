@@ -2,6 +2,6 @@ Steelworks is an infinite source of raw metal ![IconSmall](../assets/images/Meta
 
 ![](../assets/images/steelworks.png)
 
-This building can also process raw metal into ingots. For this process it needs to powered by the [generator](generator.md). Once the [generator](generator.md) is running, machine operators can turn on the the Steelworks. Once the Steelworks are running, player can process the raw metal into an ingot near the mold.
+To turn raw metal into ingots, switch on the Steelworks at its controls and process the metal at the mold. The Steelworks draws **one coal per minute** from the nearest [Resource Depot](Resource%20Depot.md) and stops smelting if it runs out of fuel.
 
 This building also has a workbench for processing ingots and creating processed metal ![IconSmall](../assets/images/Metal.png).

@@ -1,5 +1,5 @@
 Resources are items that can be stored in the [resource depot](../Buildings/Resource Depot.md). They can be used for crafting, building, or cooking. 
-Once they are stored in the [resource depot](../Buildings/Resource Depot.md) player receives reward in form of [heat stamps](../Heatstamps.md)..
+Eligible resources earn [Heatstamps](../Heatstamps.md) when you submit them at a Resource Depot.
 Only the [governing](../Factions/Voting.md) faction is allowed to withdraw resources from [resource depot](../Buildings/Resource Depot.md).
 
 Resources are divided into types that are designated by icons

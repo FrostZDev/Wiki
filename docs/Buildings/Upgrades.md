@@ -14,3 +14,4 @@ Some upgrades require other upgrades to be installed first.
 
 - [Generator](generator.md): three power-level upgrades.
 - [Sawmill](sawmill.md): Sharp Blade for improved wood yield.
+- [Hothouse](hothouse.md#compost): a compost workbench for preparing fertilizer.

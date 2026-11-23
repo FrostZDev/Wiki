@@ -1,11 +1,7 @@
-The colony holds elections in certain intervals.
-During those voting cycles the governing faction is determined.
-Every inhabitant of the colony is capable to vote for either [lawkeepers](Lawkeepers.md) or [faithkeepers](Faithkeepers.md) during a voting cycle.
+The colony elects either the [Lawkeepers](Lawkeepers.md) or the [Faithkeepers](Faithkeepers.md) to govern. When an authorized colony manager opens a vote, you have **five minutes** to cast your ballot.
 
-In order to cast a vote the voting menu (assign hotkey in the controls menu) must be used.
-Each player who is online at the time of voting may cast one vote for either faction.
-Chose wisely - the vote can not be changed after it has been cast!
-During each voting cycle a different faction my be chosen.
+Assign a key to **Open Faction Voting Menu** under **FROST** in the controls settings. Open the menu during an active vote and choose a faction. You can vote once per election, and your choice is final.
 
-After the voting cycle ended the controling power over the colony is transfered to the new governing faction.
-The members of the new coverning faction is granted the power to perform all the special actions like [building](../Buildings/Basics.md), [upgrades](../Buildings/Upgrades.md) and more.
+The faction with the most votes governs. If factions tie for first place, one of them is chosen at random. If nobody votes, the current governing faction stays in power.
+
+Members of the governing faction can [place buildings](../Buildings/Basics.md), [install upgrades](../Buildings/Upgrades.md), and [issue Colony Orders](../Colony%20Orders.md).

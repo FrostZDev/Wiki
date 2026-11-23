@@ -6,7 +6,7 @@ In order to deposit [resources](../Resources/Resources.md) player must walk up t
 
 ![](../assets/images/resourcedepot_action.png)
 
-Player can then place [resources](../Resources/Resources.md) into the invenory of the depot and click the submit button. Once submitted, player receives reward in form of heat stamps.
+Place resources in the depot inventory and click **Submit**. You earn [Heatstamps](../Heatstamps.md) for eligible resources. The confirmation shows how much you deposited and how much counted toward the reward.
 
 ![](../assets/images/resourcedepot_submit.png)
 

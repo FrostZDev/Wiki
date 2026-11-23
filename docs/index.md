@@ -17,3 +17,7 @@ Members of the governing faction can establish outposts beyond the colony. The [
 ## Quests
 
 Track personal objectives and shared faction progress in the quest menu. The [quest guide](Quests.md) explains the tabs, quest states, prerequisites and progress notifications.
+
+## Colony Orders
+
+Work together to fill a gathering request. The [Colony Orders guide](Colony%20Orders.md) explains how to contribute and earn bonus skill experience.

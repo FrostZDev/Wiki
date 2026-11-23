@@ -1,4 +1,1 @@
-Heatstamps are the soft currency of the colony.
-They are rewarded for doing laber work and are generally needed to perform crafting or trade for local things.
-
-![Image](assets/images/Heatstamp.png)
+Heatstamps are the colony's currency. You can earn them through work such as depositing eligible resources at a [Resource Depot](Buildings/Resource%20Depot.md), and spend them on [crafting](Crafting/Crafting.md) and trade.
