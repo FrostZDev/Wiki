@@ -3,7 +3,7 @@ site_description: Wiki page for Frostpunk-themed full conversion mod for DayZ
 site_author: FrostZ Dev Team
 site_url: https://frostzdev.github.io/Wiki/
 
-copyright: "Copyright &copy; 2025 FrostZ Dev Team"
+copyright: "Copyright &copy; 2026 FrostZ Dev Team"
 
 theme:
   palette:
@@ -76,6 +76,7 @@ nav:
       - Factions/Faithkeepers.md
       - Factions/Frostlanders.md
       - Factions/Voting.md
+      - Factions/orders.md
   - Resources: Resources/Resources.md
   - Skills:
       - Skills/Basics.md
