@@ -17,7 +17,7 @@ Install [upgrades](Upgrades.md) to improve your Tentshack.
 | Storage | 3 Processed Wood | Unlocks personal storage for up to 10 inhabitants. | None |
 | Heating | 4 Processed Metal | Unlocks automatic heating whenever the territory's generator is running. | None |
 | Insulation | 4 Fabric | Adds 1 heat level while Heating is installed and powered. | None |
-| Improved Heating | 6 Processed Metal | Adds 1 heat level while Heating is powered. | Heating |
+| Improved Heating | 6 Processed Metal | Adds 2 heat levels while Heating is powered. | Heating |
 
 With Heating installed, the Tentshack warms up automatically at any running [generator](generator.md) level. It starts at 1 heat level, plus the generator bonus and installed heat upgrades. Insulation can be installed on its own, with its warmth bonus taking effect once Heating is installed and powered. Heating adds zero coal use.
 
