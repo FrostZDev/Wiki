@@ -17,6 +17,12 @@ The top of the menu shows the current order: the resource, the progress and who 
 - Only one order can be active at a time. Confirming a new order **replaces** the current one, and its progress is lost.
 - Players who aren't in the governing faction can't issue orders.
 
+## Cancelling an order
+
+While an order is active, members of the governing faction can press **Cancel** in the menu to end it. The order and its progress are cleared straight away, the XP bonus ends, and everyone in the colony is notified. There is no confirmation, so be sure before you press it.
+
+After an order is issued or cancelled, wait a few seconds before changing it again.
+
 ## Taking part
 
 - **Tracker:** while you're inside the colony, a small tracker on the right side of the screen shows the ordered resource and its progress (`collected / goal`). It's hidden when you leave the colony.

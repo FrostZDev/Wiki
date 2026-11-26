@@ -1,59 +1,113 @@
 # Quests
 
-Quests give you objectives to work towards as an individual or together with your faction. Use the quest menu to read objectives, check progress and see what becomes available next.
+Quests give you goals to work towards, on your own or together with your faction. Use the quest menu to see which quests are open, start one, follow its progress and claim its reward.
 
 ## Opening the menu
 
-Press **J** to open **Quests**. You can change this binding under **FROST → Open Quests** in the controls settings. Press **J** again, **Escape**, or the close button to return to the game.
+Press **J** to open **Quests**. You can change this key under **FROST → Open Quests** in the controls settings. Press **J** again, **Escape**, or the close button to return to the game.
 
 ## Personal and faction quests
 
 Use the tabs at the top of the menu to switch between:
 
-- **PLAYER** — your personal quest lines. Your progress belongs to you.
-- **Your faction** — shared quest lines for your current faction. Contributions advance the faction's progress rather than your personal progress.
+- **PERSONAL**: your own quests. Your progress belongs only to you.
+- **Your faction** ([Lawkeepers](Factions/Lawkeepers.md), [Faithkeepers](Factions/Faithkeepers.md) or [Frostlanders](Factions/Frostlanders.md)): quests the whole faction works on together. See [Faction quests](#faction-quests).
 
-Only your personal tab and your current faction's tab are available during normal play. If you have not joined a faction, you will only see **PLAYER**. Changing faction updates the available faction tab.
+If you are not in a faction, you will only see **PERSONAL**. When you join or leave a faction, the faction tab changes with it.
 
-## Reading quest lines
+## The quest map
 
-Each row represents a quest line. Hover over the large icon on the left to read the line's title and description.
+Each tab shows a map of quests. The first quest of the tab sits in the centre, and the quests that follow branch out from it in every direction. Lines connect each quest to the quests it unlocks.
 
-Inside the row, each quest has an icon and a name. Hover over a quest icon to see its description, objective, state, progress and any listed reward. You can inspect locked quests too. Scroll the menu when there are more quests than fit on screen.
+- **Move the map:** hold the left mouse button and drag.
+- **Back to the centre:** the map centres on the first quest whenever you open the menu, switch tabs or click the open tab again.
+- **Read a quest:** hover over it to see its description, objective, progress, reward and state.
 
-Lines between quest icons show a connected sequence. Quests without a connecting line can be independent objectives; read their details to check what is required.
+You only see the quests you have finished and the ones you can do next. Quests further along stay hidden until you reach them.
 
 ## Quest states
 
-The quest icon and outline use color to indicate its state:
+The colour of a quest, and of the line leading to it, shows its state:
 
-| State | Appearance | Meaning |
+| State | Colour | Meaning |
 | --- | --- | --- |
-| Locked | Gray | The quest is not available yet. |
-| Available | White | You can work on the objective. |
-| In progress | Light blue | The quest is underway. |
-| Reward ready | Gold | The objective is finished and the reward can be claimed. |
-| Completed | Pale green | The quest is complete. |
-| Not chosen | Muted brown | The faction chose the other path. |
+| Available | White | You can start this quest. |
+| In progress | Light blue | The quest you are working on. Only this quest counts progress. |
+| Reward ready | Gold | The objective is done. Click to claim the reward. |
+| Completed | Pale green | Finished. |
+| Not chosen | Muted brown | The other path of a [choice](#choices) was picked. |
 
-Hover over the icon to read the state if you are unsure of its color.
+A gold line marks the two paths of a choice that is still open.
 
-## Prerequisites and progress
+## Unlocking quests
 
-Some quests unlock when a prerequisite is complete. If the prerequisite has a claimable reward, claim it to finish the quest and unlock what follows. Where paths rejoin, completing one of the listed alternatives is enough. Actions performed before the prerequisite is complete do not add progress to the dependent quest, so check that it is available before working on it.
+Each quest unlocks after the quest before it is complete. If that quest has a reward, claim it first: the quests that follow unlock only once the reward is claimed.
 
-Follow the objective in the quest's popup. Progress updates automatically when you complete a qualifying action.
+Finishing a quest can unlock several quests at once. You can do them in any order.
 
-Personal and faction progress are tracked separately. Progress is saved on the server and restored when you reconnect. Updates appear automatically, so you do not need to reopen the menu to refresh them.
+## Starting and stopping quests
 
-## Claiming rewards and choosing a path
+You work on **one quest at a time** in each tab:
 
-Click a gold **Reward ready** quest to open the reward window and select **Claim**. You can claim your personal rewards. For a faction quest, only the faction leader can claim the reward.
+1. Click an available quest.
+2. Press **START**. The quest is now in progress.
 
-When a faction quest offers two paths, members can inspect both options. The faction leader chooses which path to pursue. That decision is final, and the other path appears as **Not chosen**.
+Only the quest in progress counts. Anything you do for a quest you haven't started does not count towards it, so start the quest first.
+
+- **Switching quests:** starting another quest pauses the one you were doing. It goes back to available and **keeps its progress**, so you can continue it later.
+- **Stopping a quest:** click the quest in progress and press **STOP**. Its progress is kept as well.
+
+Your personal quests and your faction's quests are separate, so you can have one of each in progress at the same time.
+
+## Objectives
+
+Each quest has one objective. Hover over the quest to read it and see how far you are. Progress updates by itself while you play.
+
+Objectives can ask you to:
+
+- **Gather** a resource, e.g. chop wood or mine coal. Each finished gathering action counts.
+- **Deliver** resources to a [Resource Depot](Buildings/Resource%20Depot.md). Only resources that earn [Heatstamps](Heatstamps.md) count, and items taken out of a depot don't count again when you put them back.
+- **Craft** an item at a workbench.
+- **Reach** a place on the map. Instead of a counter, the quest shows whether you have reached the location.
+- **Hunt** animals. Only animals you kill yourself count; traps, vehicles and fire don't.
+- **Kill bandits** from the patrols in the wilderness. Killing other players never counts.
+
+## Rewards
+
+When you finish a quest that has a reward, it turns **gold** and a **Quest finished** notification appears.
+
+1. Open the menu and click the gold quest.
+2. Check the reward list and press **CLAIM**.
+
+Rewards can be items, [skill points](Skills/Basics.md) or both. Items go straight into your inventory, so **make room first**. If something doesn't fit, you get a message that your inventory is full. Nothing is lost, and you can claim again once you have space.
+
+Quests without a reward are completed as soon as the objective is done.
+
+## Choices
+
+Sometimes two quests branch from the same quest as a **choice**, and you can only follow one of them. Both are linked by a gold line, and hovering over one shows which path you would give up.
+
+Click the path you want and press **CHOOSE**. **This decision is final.** The chosen quest starts right away (pausing the quest you were doing), and the other is marked **Not chosen**. The quests behind the path you didn't take stay closed for good.
+
+## Faction quests
+
+Faction quests work like personal quests, but the whole faction shares one progress:
+
+- **Everyone helps:** whatever any member does for the faction's quest in progress adds to the same counter, wherever they are.
+- **The leader decides:** only the **faction leader** can start, stop and choose faction quests and claim their rewards. Rewards go into the leader's inventory. The leader is assigned by the admins.
+- **Other members** can read every faction quest. Clicking one shows who the leader is.
+- **No leader online:** finished faction quests wait until the leader can claim them.
+
+Progress belongs to the faction, not to its members. People joining or leaving don't change it. A leader who leaves the faction stops being its leader.
 
 ## Notifications
 
-When a personal quest changes, a notification appears for **five seconds** with its name and progress. Completing it displays a **Quest completed** notification. Unlocking a following quest may also produce a notification.
+A short notification appears when:
 
-Faction members can also receive notifications when a questline opens, a decision is needed, or a quest is ready to claim or complete. Loading saved progress on reconnect does not trigger notifications.
+- new quests become available,
+- a choice is waiting (**Decision**),
+- a quest is finished and its reward is ready (**Quest finished**), or completed without a reward (**Quest completed**).
+
+Faction members get the same notifications for faction quests. Only the leader is told when a faction choice opens.
+
+Progress is saved on the server and is still there when you reconnect.

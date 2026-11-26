@@ -75,6 +75,7 @@ nav:
       - Factions/Lawkeepers.md
       - Factions/Faithkeepers.md
       - Factions/Frostlanders.md
+      - Factions/Leaders.md
       - Factions/Voting.md
       - Factions/orders.md
   - Resources: Resources/Resources.md
@@ -84,7 +85,8 @@ nav:
           - Skills/Food & Health.md
           - Skills/Technology.md
           - Skills/Hunting & Exploration.md
-  - PlayerStates:
+  - Medical:
+      - PlayerStates/Examinations.md
       - PlayerStates/Heat Buffer.md
       - PlayerStates/Heat Level.md
       - PlayerStates/Frostbite.md

@@ -4,4 +4,4 @@ Assign a key to **Open Faction Voting Menu** under **FROST** in the controls set
 
 The faction with the most votes governs. If factions tie for first place, one of them is chosen at random. If nobody votes, the current governing faction stays in power.
 
-Members of the governing faction can [place buildings](../Buildings/Basics.md), [install upgrades](../Buildings/Upgrades.md), and [issue Colony Orders](../Colony%20Orders.md).
+Members of the governing faction can [place buildings](../Buildings/Basics.md), [install upgrades](../Buildings/Upgrades.md), and [issue Colony Orders](orders.md).
